@@ -100,4 +100,4 @@ plt.axis("off")
 
 
 ## Result
-Thus the generated text image is eroded and dilated using python and OpenCV..
+Thus the generated text image is eroded and dilated using python and OpenCV.
